@@ -1,0 +1,13 @@
+#spring:
+#  mvc:
+#    view:
+#      prefix: /
+#      suffix: .html
+
+server:
+  port: 443
+  ssl:
+    key-store: classpath:xinyuzhu.cc.jks
+    key-store-password: i0csi52qor86o
+    key-store-type: JKS
+
