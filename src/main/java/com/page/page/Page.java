@@ -16,6 +16,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class Page {
     @GetMapping("/")
     public String getWebsite() {
-        return "index.html";
+        return "主动脉夹层.html";
     }
 }
