@@ -5,7 +5,7 @@
 #      suffix: .html
 
 server:
-  port: 443
+  port: 444
   ssl:
     key-store: classpath:xinyuzhu.cc.jks
     key-store-password: i0csi52qor86o
